@@ -1,7 +1,7 @@
-import sampleRNHooks from '../src';
+import useDeviceOrientation from '../src';
 
-describe('Test Template function', () => {
+describe('Test useDeviceOrientation hook', () => {
   it('should be a function', () => {
-    expect(typeof sampleRNHooks).toBe('function');
+    expect(typeof useDeviceOrientation).toBe('function');
   });
 });
