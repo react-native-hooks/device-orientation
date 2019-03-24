@@ -29,6 +29,6 @@ function App() {
 
 ### Output
 
-| return            | Default | Values                      | Description                                    |
-| ----------------- | ------- | --------------------------- | ---------------------------------------------- |
-| deviceOrientation | `null`  | enum `portrait | landscape` | possible values are `portrait` and `landscape` |
+| Name              | Default | Values                  | Description                                    |
+| ----------------- | ------- | ----------------------- | ---------------------------------------------- |
+| deviceOrientation | `null`  | `portrait`, `landscape` | possible values are `portrait` and `landscape` |
