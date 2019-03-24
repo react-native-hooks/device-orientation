@@ -1,0 +1,9 @@
+{
+  "version": "v1",
+  "packages": {
+    "@rnhooks/device-orientation": {
+      "signature": "ce2e1bcb2270f7e82cdd68f81f2142e4",
+      "file": true
+    }
+  }
+}
