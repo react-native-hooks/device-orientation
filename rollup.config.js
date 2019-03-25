@@ -47,7 +47,7 @@ const commonPlugins = [
   }),
   commonjs({
     namedExports: {
-      'react-native': ['View', 'Text'],
+      'react-native': ['Dimensions'],
       'react-is': ['isElement', 'isValidElementType', 'ForwardRef'],
     },
   }),

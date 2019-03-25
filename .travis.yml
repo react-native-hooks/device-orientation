@@ -2,10 +2,6 @@ language: node_js
 node_js:
 - 10
 - 8
-addons:
-  code_climate:
-    repo_token:
-      secure: "PnisVkP1GBCiyHW4LSIiQGt1i1EfgWfdZnSYy2JRj6d8wkVWkeVNe/tVJUBUxm+mXtbFO89Omr4SCiE5ZUD/SHFkItq0M/w3GusepO2ZxPs4rTMTnn/5GRPRfRleuhyRWG3TqdRI/JS1wv5aMAM08xTyB/JxYlu+lakCUauU8r+gbL2qj5Ym0RSsDYkccOI6peITAH0VFbl52JW7voeVBY2e9hz5toNe2zwHHy+3/Fh9Kgp+jYC1Qp7PGjU2YmcfHBFFT2RIAWRZMThQ4/kYjZK78nhH0TSWXyFt4XKcYyxAUIpe+UbnyQxbopbMoxW8GOGUCXKfAuVEGK0wE3vT2sUiWZUdEsybPsPFqNgh+dZtcaphBNGqPyZ85Il/j7aTemI+Y30Ys1yri5lkVMjOXTRI3k3jVbjL9pgzjBk+3+zCQel9DxoKCawG45CyibUFtwHUsRqamDv22qIIOxAYTCa7rxp0MkhpO2wYdhf0kNFBHPF4k7o8K90UklC5+HFAcsmGAIHb8krtmKcP7LGaxUbEFAFKvk21720ehtKOG4PEJSGPNctaSwY34E3Jb4Skud4yHpU/O0Gl+PJVwrYvGn0ZH/tmxctLjpXlM3tkooZiT3MroVo91RPM31su+oYyyiv+F1nC2HwRNn1kAOiRRMPL5gQwMiRUZYKppcItJ9o="
 script: npm run test:coverage
 before_script:
 - npm install codeclimate-test-reporter -g

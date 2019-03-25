@@ -1,7 +1,7 @@
 {
   "name": "@rnhooks/device-orientation",
   "version": "0.0.1",
-  "description": "React Native hook for device oritentation",
+  "description": "React Native hook for Device Orientation",
   "main": "dist/react-native-hooks-device-orientation.cjs.js",
   "jsnext:main": "dist/react-native-hooks-device-orientation.esm.js",
   "module": "dist/react-native-hooks-device-orientation.esm.js",

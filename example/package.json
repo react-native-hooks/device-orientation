@@ -7,7 +7,7 @@
     "test": "jest"
   },
   "dependencies": {
-    "@rnhooks/device-orientation": "file:.yalc/@rnhooks/device-orientation",
+    "@rnhooks/device-orientation": "*",
     "react": "16.8.3",
     "react-native": "0.59.1"
   },
