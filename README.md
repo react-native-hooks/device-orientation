@@ -29,6 +29,6 @@ function App() {
 
 ### Output
 
-| Name              | Default | Values                  | Description                                    |
-| ----------------- | ------- | ----------------------- | ---------------------------------------------- |
-| deviceOrientation | `null`  | `portrait`, `landscape` | possible values are `portrait` and `landscape` |
+| Name              | Values                  | Description                                    |
+| ----------------- | ----------------------- | ---------------------------------------------- |
+| deviceOrientation | `portrait`, `landscape` | possible values are `portrait` and `landscape` |
